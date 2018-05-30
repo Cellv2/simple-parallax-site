@@ -18,17 +18,17 @@ body, html {
 }
 
 .img1 {
-    background-image: url("/img/img-main.jpg");
+    background-image: url("/img/img-main-min.jpg");
     min-height: 100vh;
 }
 
 .img2 {
-    background-image: url("/img/img-small.jpg");
+    background-image: url("/img/img-small-min.jpg");
     min-height: 55vh;
 }
 
 .img3 {
-    background-image: url("/img/img-small2.jpg");
+    background-image: url("/img/img-small2-min.jpg");
     min-height: 55vh;
 }
 
